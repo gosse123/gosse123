@@ -1,3 +1,4 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <h1 align="center">Hi 👋, I'm Nahounou gosse</h1>
 <h3 align="center">A passionate IA developer from Burkina faso</h3>
 
